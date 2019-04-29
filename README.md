@@ -10,5 +10,5 @@ https://stackoverflow.com/questions/440133/how-do-i-create-a-random-alpha-numeri
 http://www.cplusplus.com/reference/string/string/resize/
 https://www.geeksforgeeks.org/vector-in-cpp-stl/
 
-
+Much of the code is not complete.
 This was for the COSC 2030 fall 2018 Class at the University of Wyoming taught by Dr. Mike Borowczak.
